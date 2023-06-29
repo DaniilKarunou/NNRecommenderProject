@@ -39,9 +39,4 @@ The achieved results on the best of recommender (NNModelv2) are as follows:
 |----------------|---------|---------|---------|---------|----------|----------|----------|----------|
 | NNRecommender  | 0.000677| 0.008125| 0.010494| 0.024035| 0.000677 | 0.005332 | 0.006337 | 0.010473 |
 
-## Usage
-
-To use the recommender system, you can refer to the example code provided in the repository jupyter notebooks.
-Adjust the parameters and data according to your needs and run the code to train the models and generate recommendations.
-
 
